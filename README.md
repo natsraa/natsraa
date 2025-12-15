@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m @natsraa
 - 👀 I’m interested in UX/UI Frontend Development
-- 🌱 I’m currently learning ionic/Angular
+- 🌱 I’m developers.
 - 💞️ I’m looking to collaborate on Frontend Headless CMS or the others.
 - ✨ Special ✨ UX/UI Design (Web/App/System/CMS) , CSS SCSS , TS , HTML5 , All around Frontend Development
 
